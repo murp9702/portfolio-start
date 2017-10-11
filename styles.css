@@ -1,15 +1,17 @@
 .jumbotron {
   height: 100vh;
   background-color: gray;
+  color: white;
 }
 
 .build {
   height: 100vh;
 }
 
-.container-fluid .create {
+.container-fluid.create {
   height: 100vh;
-  background-color: lightgrey;
+  background-color: gray;
+  color: white;
 }
 
 p {
@@ -23,4 +25,8 @@ h2 {
 .row {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.col-sm-4 {
+  text-decoration: underline;
 }

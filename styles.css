@@ -2,10 +2,19 @@
   height: 100vh;
   background-color: gray;
   color: white;
+  margin-bottom: 0;
 }
 
 .build {
   height: 100vh;
+}
+
+#about {
+  height: 50vh;
+  background-color: cornflowerblue;
+  color: white;
+  position: relative;
+  top: 50%;
 }
 
 .container-fluid.create {
